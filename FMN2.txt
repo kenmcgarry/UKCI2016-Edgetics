@@ -1,0 +1,2 @@
+#node1	node2	node1_string_id	node2_string_id	node1_external_id	node2_external_id	neighborhood	fusion	cooccurence	homology	coexpression	experimental	knowledge	textmining	combined_score
+SPIRE1	FMN2	1859256	1850090	ENSP00000387266	ENSP00000318884	0.000	0.000	0.000	0.000	0.000	0.900	0.000	0.000	0.899
